@@ -1,0 +1,336 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+    background-color: #94B5F2;
+    color: white;
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    color: white;
+    font-weight: 800;
+    padding: 30px 20px;
+}
+
+.button{
+    display:flex;
+    justify-content: center;
+}
+
+.yes-button{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 100px;
+    background-color: #466DB6;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.no-button{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 100px;
+    background-color: #466DB6;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.continue-p3{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 100px;
+    background-color: #466DB6;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.dblq{
+    display: flex;
+    justify-content: center;
+}
+
+.question1{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 50px;
+    background-color: #466DB6;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.question2{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 50px;
+    background-color: #466DB6;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.continue-p5{
+    height: 100px;
+    width: 100px;
+}
+
+.resetbegin{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 50px;
+    background-color: #000000;
+    color: #FF0000;
+    font-size: 32px;
+    font-family: 'Nosifer', sans-serif;
+}
+
+.resetprev{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 50px;
+    background-color: #000000;
+    color: #FF0000;
+    font-size: 32px;
+    font-family: 'Nosifer', sans-serif;
+}
+
+.continue-goodend{
+    padding: 25px 100px 25px 100px;
+    margin: 15px 50px;
+    background-color: #466DB6;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.continue-badend{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 50px;
+    background-color: #000000;
+    color: #FF0000;
+    font-size: 28px;
+    font-family: 'Nosifer', sans-serif;
+}
+
+.resetbegingood{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 50px;
+    background: linear-gradient(#FCE014, #eaeaea, #FCE014);
+    color: white;
+    box-shadow: 2px 2px 8px gold;
+    border: transparent;
+    font-size: 40px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.resetbeginbad{
+    padding: 25px 100px 25px 100px;
+    margin: 25px 50px;
+    background-color: #466DB6;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+h4{
+    color: white;
+    font-size: 30px;
+}
+
+.bagobtained>span{
+    font-size: 30px;
+    background: linear-gradient(#FCE014, #eaeaea, #FCE014);
+    color: white;
+}
+
+.p4bobert{
+    display: flex;
+    justify-content: center;
+}
+
+.p4q1{
+    font-size: 20px;
+    margin-left: 15px;
+    line-height: 0.8;
+}
+
+.spacep4{
+    line-height: 0.5;
+}
+
+.tiktok{
+    color: white;
+    font-size: 18px;
+    opacity: 0.7;
+}
+
+.gasp{
+    line-height: 0.5;
+}
+
+p{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+    width: 350px;
+}
+
+.mrsmithsmile{
+    height: 350px;
+    width:250px;
+}
+
+.bobertfirstimage{
+    height: 250px;
+    width: 150px;
+}
+
+.bobertwhatinbag{
+    height: 250px;
+    width: 150px;
+}
+
+.bobertbag{
+    height: 100px;
+    width: 100px;
+}
+
+.bobertsorry{
+    height: 300px;
+    width: 170px;
+}
+
+.p2noimg{
+    display: flex;
+    justify-content: center;
+}
+
+.mrsmithsad{
+    height: 200px;
+    width: 125px;
+    margin: 0px 0px 0px 225px;
+}
+
+.bobertrelief{
+    height: 150px;
+    width: 75px;
+    margin: 50px 0px 0px 150px;
+    opacity: 0.5;
+}
+
+.smithfight{
+    height: 200px;
+    width: 110px;
+    margin: 0px 0px 0px 225px;
+}
+
+.bobertbadend{
+    height: 150px;
+    width: 75px;
+    margin: 50px 0px 0px 150px;
+    opacity: 0.5;
+}
+
+.storyendyesimg{
+    display: flex;
+    justify-content: center;
+}
+
+.smithyahoo{
+    height: 200px;
+    width: 125px;
+    margin: 250px 10px 0px 0px;
+}
+
+.diamond{
+    height: 450px;
+    width: 450px;
+}
+
+.bobertgoodend{
+    height: 150px;
+    width: 75px;
+    margin: 300px 0px 0px 100px;
+    opacity: 0.5;
+}
+
+.mrsmithdisappoint{
+    height: 350px;
+    width: 175px;
+}
+
+.star{
+    color:gold;
+    line-height: 0.4;
+    padding-top: 0px;
+}
+
+em{
+    font-size: 24px;
+}
+
+.runaway{
+    font-size: 32px;
+}
+
+.smithdiamond{
+    color: gold;
+    line-height: 0.5;
+}
+
+.dia{
+    color: gold;
+    text-shadow: 2px 2px 8px gold;
+}
+
+.fail{
+    color: blue;
+}
+
+.done{
+    color:blue;
+}
+
+h5{
+    opacity:0.7;
+    font-style: italic;
+    padding: 0px 0px 25px 0px;
+}
+
+
+
+.Part-Two-Yes {
+  display: none;
+}
+
+.Part-Three-Yes {
+  display: none;
+}
+
+.Part-Four-Q1{
+    display:none;
+}
+
+.Part-Four-Q2{
+    display:none;
+}
+
+.Part-Five-Yes{
+    display:none;
+}
+
+.Part-Two-No {
+  display: none;
+}
+
+.Story-Ending-Yes {
+  display: none;
+}
+
+.Story-Ending-No {
+  display: none;
+}
